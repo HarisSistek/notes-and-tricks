@@ -6,4 +6,4 @@ Different notes and tricks to remember
 
 ### Node JS
 
-- [Important Node Modules](notes-and-tricks/javascript/important-node-modules.md)
+- [Important Node Modules](https://github.com/HarisSistek/notes-and-tricks/blob/master/javascript/important-node-modules.md)
