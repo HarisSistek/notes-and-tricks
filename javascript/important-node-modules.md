@@ -42,7 +42,6 @@
 * Inquirer:
   * use when you want to build an “interactive” CLI utility that takes options sequentially (similar to how when you run npm init and it asks you a series of questions to generate the package.json file)
   
-  
 ### Logging:
 
 * Winston:
@@ -52,3 +51,8 @@
 * Morgan:
   * use when you’re using Express and you want to log your HTTP requests
 note: this would be used in conjunction with something like Winston or Bunyan. Since it’s middleware, it know how to handle the request and log it, but doesn’t handle the transportation to a log output that Winston and Bunyan do.
+
+### Linter:
+
+* ESlint:
+ * use when you need a linter to automatically find (and fix) syntax and code pattern issues in your code
